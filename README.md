@@ -13,5 +13,5 @@ This boilerplate helps you quickly build your website with popular libraries pre
     npm run dev
     ```
 <br>
-Enjoy it my bro! 🎉
+Enjoy it ! 🎉
 
